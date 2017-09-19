@@ -1,6 +1,18 @@
 {
   "name": "WebVR_Mark_I",
   "version": "",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "dependencies": {
     "body-parser": "^1.18.1",
     "express": "^4.15.4",
