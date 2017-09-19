@@ -1,0 +1,27 @@
+{
+  "name": "sample a-frame app",
+  "short_name": "A-Frame",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e88e5",
+  "theme_color": "blue",
+  "icons": [{
+    "src": "/src/images/icons/app-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  },{
+    "src": "/src/images/icons/app-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  },{
+    "src": "/src/images/icons/app-icon-256x256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  },{
+    "src": "/src/images/icons/app-icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "": ""
+}
