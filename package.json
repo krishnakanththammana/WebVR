@@ -2,7 +2,7 @@
   "name": "WebVR_Mark_I",
   "version": "",
   "engines": {
-    "node": "5.9.1"
+    "node": "6.11.2"
   },
   "main": "server.js",
   "scripts": {
